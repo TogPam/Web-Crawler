@@ -1,3 +1,5 @@
+#pip install requests, BeautifulSoup
+#Crawl du lieu o to cua Cho Tot
 import requests
 from bs4 import BeautifulSoup
 url = "https://xe.chotot.com/mua-ban-o-to"
